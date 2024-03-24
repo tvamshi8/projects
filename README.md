@@ -18,4 +18,47 @@ Let’s start by visualizing the distribution of acquisition cost and revenue ge
 
 ![image](https://github.com/tvamshi8/projects/assets/153074595/3e112921-6241-449e-bdda-793af9c910cf)
 
+![image](https://github.com/tvamshi8/projects/assets/153074595/e0b4f8ef-4824-4c81-b926-f46ae0f3af79)
+
+Now let’s compare the cost of acquisition across different channels and identify the most and least profitable channels:
+![image](https://github.com/tvamshi8/projects/assets/153074595/98dca301-0628-4908-8ebf-232641801630)
+
+So paid advertisement is the most expensive channel, and email marketing is the least expensive channel. Now let’s see which channels are most and least effective at converting customers:
+
+![image](https://github.com/tvamshi8/projects/assets/153074595/219a0503-8272-41a6-8064-20516a0b064e)
+
+Social media is the most effective channel for converting customers, while paid advertising is the least effective. Now let’s calculate the total revenue by channel and have a look at the most and least profitable channels in terms of generating revenue:
+
+![image](https://github.com/tvamshi8/projects/assets/153074595/c3cfc4b2-3df7-431c-978c-821ba65562f9)
+
+So email marketing is the most profitable channel in terms of generating revenue. But there’s not a huge difference between the percentages of revenue generation from all the channels to call any channel the least profitable channel.
+
+Now let’s calculate the return on investment (ROI) for each channel:
+
+![image](https://github.com/tvamshi8/projects/assets/153074595/c9395ef5-9c93-4b3f-a926-cbde43e93366)
+
+The ROI from email marketing is way higher than all other channels, while the ROI from paid advertising is the lowest. Now let’s calculate the customer lifetime value from each channel. Based on the data we have, we can use the formula mentioned below to calculate CLTV:
+
+CLTV = (revenue – cost) * conversion_rate / cost
+
+![image](https://github.com/tvamshi8/projects/assets/153074595/b0512915-9a15-457c-a95c-380ff6a11929)
+
+So the customer lifetime value from Social Media and the referral channels is the highest.
+
+Now let’s compare the CLTV distributions of the social media and referral channels:
+
+![image](https://github.com/tvamshi8/projects/assets/153074595/54c5c01b-129c-40f5-bc08-175bef119bbc)
+
+There’s not much difference, but the Customer Lifetime Value from the Social Media channel is slightly better than the referral channel.
+
+Summary:
+Customer lifetime value analysis is used to estimate the total value of customers to the business over the lifetime of their relationship. It helps companies determine how much to invest in customer acquisition and retention, as well as identify the most valuable customers to prioritize for retention efforts.
+
+
+
+
+
+
+
+
 
